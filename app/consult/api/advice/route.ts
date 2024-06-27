@@ -34,7 +34,7 @@ export async function POST(req: Request) {
 
   try {
     const completion = await openai.completions.create({
-      model: "text-davinci-003",
+      model: "gpt-4o",
       temperature: 0.7,
       prompt,
       max_tokens: 300,
