@@ -22,48 +22,47 @@ Many people know what they need to do to achieve a fit and toned body, but often
 
 ## Screenshots 📸
 ### 📝 Sign-up Page
-![Doctor's Homepage](./images/SKKU-Health1.png)
+![Sign-up Page](./images/SKKU-Health1.png)
 ### 🔑 Log-in Page
-![Patient's History](./images/SKKU-Health2.png)
+![Log-in Page](./images/SKKU-Health2.png)
 ### 🧑‍⚕️ Basic Health Info Input Screen
-![Health Insights](./images/SKKU-Health3.png)
+![Basic Health Info Input Screen](./images/SKKU-Health3.png)
 ### 🏠 Home
-![Health Insights](./imagesv/SKKU-Health4.png)
+![Home](./imagesv/SKKU-Health4.png)
 ### 📋 Entering Health/Lifestyle Info Before Getting AI-Generated Advice
-![Health Insights](./images/SKKU-Health5.png)
+![Entering Health/Lifestyle Info Before Getting AI-Generated Advice](./images/SKKU-Health5.png)
 ### 🤖 AI Advice
-![Health Insights](./images/SKKU-Health6.png)
+![AI Advice](./images/SKKU-Health6.png)
 ### 📈 Data Trends Graph
-![Health Insights](./images/SKKU-Health7.png)
-
-* More detailed images are in the UI folder
+![Data Trends Graph](./images/SKKU-Health7.png)
 
 ## Installation 💻
-1. **Clone the repository** 📂
+1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/ryusudol/SKKUpital.git
+    git clone https://github.com/ryusudol/VitaAI.git
     ```
 
-2. **Navigate to the project directory** 📁
+2. **Navigate to the project directory**
 
     ```bash
     cd VitaAI
     ```
 
-3. **Install the dependencies** 📦
-
+3. **Install the dependencies**
+    
     ```bash
     npm install
     ```
+    * recommended npm version: 10.8.0
 
-4. **Create .env file** 📝
+5. **Create .env file**
 
     ```bash
     OPENAI_API_KEY="Your OpenAI API Key"
     ```
 
-5. **Start the project** 🚀
+6. **Start the project**
 
     ```bash
     npm run dev
