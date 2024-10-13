@@ -28,7 +28,7 @@ Many people know what they need to do to achieve a fit and toned body, but often
 ### 🧑‍⚕️ Basic Health Info Input Screen
 ![Basic Health Info Input Screen](./images/SKKU-Health3.png)
 ### 🏠 Home
-![Home](./imagesv/SKKU-Health4.png)
+![Home](./images/SKKU-Health4.png)
 ### 📋 Entering Health/Lifestyle Info Before Getting AI-Generated Advice
 ![Entering Health/Lifestyle Info Before Getting AI-Generated Advice](./images/SKKU-Health5.png)
 ### 🤖 AI Advice
