@@ -46,23 +46,17 @@ Many people know what they need to do to achieve a fit and toned body, but often
 2. **Navigate to the project directory**
 
     ```bash
-    cd VitaAI
-    ```
-
-3. **Install the dependencies**
-    
-    ```bash
-    npm install
+    cd VitaAI && npm install
     ```
     * recommended npm version: 10.8.0
 
-5. **Create .env file**
+3. **Create .env file**
 
     ```bash
     OPENAI_API_KEY="Your OpenAI API Key"
     ```
 
-6. **Start the project**
+4. **Start the project**
 
     ```bash
     npm run dev
